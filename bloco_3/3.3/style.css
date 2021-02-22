@@ -1,0 +1,12 @@
+h1, p{
+    text-align: center;
+}
+li:hover{
+    background-color: violet;
+}
+li:active{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+ul, ol{
+    list-style: none;
+}
