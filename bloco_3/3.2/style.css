@@ -1,33 +1,62 @@
 body{
-    background-color: #FFF1E6;
+     background-color: #cfd2cd;
 }
-h1,h2{
-    font-family:Georgia;
-    }
-    #foto{
-        width: 20%;
-        border-radius: 30%;
-    }
-   
-   p{
-    font-family: 'Times New Roman';
+
+.header{
+    background-color: #e5e6e4;
+    font-family: fantasy;
+    padding: 30px, 50px, 70px, 50px;
+    margin: auto;
+}
+
+.header h1{
     text-align: center;
+    font-weight: 700;
 }
 
-#hab{
+.header p{
+    font-size: 25px;
+    text-align: justify;
+    float: right;
+    width: 50%;
+    padding-right: 150px;
+    padding-top: 100px;
+}
+
+img{
+    width: 15%;
+    border-radius: 25%;
+    padding-bottom: 50px;
+    margin-left: 200px;
+}
+
+.buttons ul li{
+    background-color: #a6a2a2;
+    padding: 5px 10px;
+    display: inline-block;
+    border-radius: 10%;
+    margin: 10px;
+    text-decoration:none;
+
+}
+
+.habi{
+    font-family: fantasy;
     line-height: 30px;
+    font-size: 20px;
+    font-weight:600;
+}
 
+.section-title{
+    font-size: 25px;
+    background-color: #a6a2a2;
+    font-family: fantasy
 }
-.hab1{
-    font-size:30px;
-}
-.hab2{
-    font-size:25px;
-}
-.hab3{
-    font-size:20px;
-}
-.hab4{
-    font-size: 15px;
-
+.button-blog{
+    font-family: fantasy;
+    color: black;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 5px 10px;
+    text-decoration: none;
 }
